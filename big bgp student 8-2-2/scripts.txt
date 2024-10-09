@@ -1,0 +1,10 @@
+isp3-e2
+-------------------------------------------
+
+int gig0/0/2
+no shutdown
+ip address 65.21.45.2 255.255.255.0
+ex
+
+router bgp 62145
+network 65.21.45.0 mask 
