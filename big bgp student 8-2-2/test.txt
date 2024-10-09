@@ -2,8 +2,6 @@ sadasf
 asdfjsdfpkl
 asdfasdfa
 dsahdfajsdkfhallakdhjkljasdfa
-<<<<<<< HEAD
-=======
 fdadsfa
 asdfasdfa
 adsfadsf
@@ -14,4 +12,3 @@ asdfasdf
 dsaf
 asdfsdfadf
 sdfasdfasdfasd
->>>>>>> test
