@@ -1,12 +1,4 @@
 sadasf
 asdfjsdfpkl
-<<<<<<< HEAD
-sdkfghasdf
-sdahjfa
-asdhfakldjs
-asdfasdf
-asdsadfadsd
-=======
 asdfasdfa
 dsahdfajsdkfhallakdhjkljasdfa
->>>>>>> test
