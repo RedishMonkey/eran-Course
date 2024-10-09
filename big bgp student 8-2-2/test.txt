@@ -2,3 +2,16 @@ sadasf
 asdfjsdfpkl
 asdfasdfa
 dsahdfajsdkfhallakdhjkljasdfa
+<<<<<<< HEAD
+=======
+fdadsfa
+asdfasdfa
+adsfadsf
+asdfasdfaasd
+asdfasdf
+dsahdfajsdkfhallakdhjkljasdfa
+asdfasdf
+dsaf
+asdfsdfadf
+sdfasdfasdfasd
+>>>>>>> test
